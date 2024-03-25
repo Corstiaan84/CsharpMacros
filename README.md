@@ -1,6 +1,8 @@
 # CsharpMacros
 A simple template base system of macros for Visual Studio that can be executed in design time
 
+[![BuiltWithDot.Net shield](https://builtwithdot.net/project/448/csharp-macros/badge)](https://builtwithdot.net/project/448/csharp-macros)
+
 ![examplle usage](doc/generate_assertions_animated.gif)
 
 ## Releases
